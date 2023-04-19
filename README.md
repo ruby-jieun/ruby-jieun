@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Ruby's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruby-jieun&show_icons=true&theme=dark)﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruby-jieun&langs_count=10&layout=compact&theme=dark)](https://github.com/ruby-jieun/ruby-jieun)﻿
 
 
-
+<br<br><br><br><br><br><br><br><br>
 
 
 
