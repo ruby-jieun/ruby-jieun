@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:262626&height=250&section=header&text=Ruby_Jieun&fontColor=eeeeee&fontSize=50&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:262626&height=250&section=header&text=Welcome&fontColor=eeeeee&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Jieun's%20GitHub%20Profile&descAlignY=51&descAlign=62&descSize=13)
 
 <!--
 **ruby-jieun/ruby-jieun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
