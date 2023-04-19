@@ -23,6 +23,19 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 🛠 Tech Stack 🛠
 
 Techs that I've used at least once
